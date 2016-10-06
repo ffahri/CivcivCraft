@@ -31,7 +31,7 @@ chunk-gc:
   period-in-ticks: 300
   load-threshold: 300
 ticks-per:
-  animal-spawns: 400
+  animal-spawns: 380
   monster-spawns: 3
   autosave: 3000
 aliases: now-in-commands.yml
